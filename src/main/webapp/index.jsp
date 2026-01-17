@@ -3,9 +3,6 @@
 <title> </title>
 </head>
 <body>
-<h1> Hello Abhi </h1>
-<h2>Succesfully Deploy our project using Jenkins to Tomcat</h2>
-<h3> Poll SCM Working...</h3>
-
+<h1>Hello this is Java3</h1>
 </body>
 </html>
